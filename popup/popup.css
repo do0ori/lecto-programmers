@@ -143,7 +143,7 @@ input:checked+.slider {
 }
 
 input:checked+.slider:before {
-    transform: translateX(12px);
+    transform: translateX(14px);
 }
 
 .config-container {
